@@ -1,1 +1,1 @@
-web: gunicorn D2-10.wsgi --log-file -
+web: gunicorn heroku-sentry.wsgi --log-file -
