@@ -1,6 +1,6 @@
 astroid==2.1.0
 autopep8==1.4.4
-bottle==0.12.18
+bottle==0.12.19
 certifi==2019.11.28
 cheroot==8.2.1
 CherryPy==18.5.0
